@@ -1,0 +1,75 @@
+.main-navbar {
+    background-color: rgb(232, 158, 109);
+}
+
+.main-navbar .navbar-brand {
+    font-size: 30px;
+    line-height: 50px;
+    margin-bottom: 0;
+    margin-right: 30px;
+}
+
+.main-navbar .navbar-brand img {
+    height: 50px;
+    margin-right: 10px;
+    vertical-align: bottom;
+}
+
+.main-navbar .nav-link {
+    color: rgb(14, 9, 9);
+}
+
+.main-navbar .nav-link:hover {
+    text-decoration: underline;
+    color: #804000;
+}
+
+h2{
+    margin-top: 30px;
+}
+
+.carousel-item .ratio img {
+    object-fit: cover;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.carousel-caption .title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.card img {
+    object-fit: cover;
+}
+
+.card .card-title {
+    font-size: 1.25rem;
+}
+
+.galerie img {
+    object-fit: cover;
+}
+
+.main-footer {
+    background-color: rgb(42, 45, 36);
+}
+
+.main-footer .logo {
+    color: white;
+    text-decoration: none;
+}
+
+.main-footer .logo img {
+    height: 30px;
+    margin-right: 6px;
+    vertical-align: bottom;
+}
+
+.main-footer .social img{
+    width: 40px;
+    margin: 10px;
+}
